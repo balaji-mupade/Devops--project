@@ -1,4 +1,4 @@
-# Devops--project
+# Devops--project--list
 1. Continuous Integration and Deployment Pipeline: Build a CI/CD pipeline using popular tools like Jenkins, GitLab CI, or CircleCI. Automate the build, test, and deployment process for a simple application or website.
 
 2. Infrastructure Automation: Use configuration management tools like Ansible, Puppet, or Chef to automate the provisioning and configuration of infrastructure resources. Create scripts to deploy and manage servers, databases, and networking components.
